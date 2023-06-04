@@ -7,3 +7,15 @@ Developed a backend project using PostgreSQL, Express.js, JavaScript, and Node.j
 - Leveraged the power of PostgreSQL to ensure efficient data storage and retrieval.
 - Utilized Express.js as a web application framework for handling HTTP requests and building APIs.
 - Employed JavaScript and Node.js to execute backend logic and interact with the database.
+
+
+
+Screen shot of customers table on PostgreSQL
+
+
+
+
+
+Screen shot of bills table on PostgreSQL
+
+(https://github.com/adoredior/solo-backend-telecom-project/assets/117949779/6d306f03-9fdc-4485-b3f5-9d4956e118cf)
