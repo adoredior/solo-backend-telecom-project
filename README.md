@@ -1,4 +1,4 @@
-# Individual-backend-rev-project
+# solo-backend-telecom-project
 Backend Project
 Developed a backend project using PostgreSQL, Express.js, JavaScript, and Node.js.
 - Created a robust database system for storing customer's phone bill and personal information.
